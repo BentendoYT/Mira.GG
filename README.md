@@ -4,7 +4,8 @@ This repository will soon contain the full source code of **Mira.GG**, an open-s
 
 ---
 
-## What is Mira.GG?
+## What is Mira.GG? <img width="64" height="64" alt="Sherlock" src="https://github.com/user-attachments/assets/1d66e822-5de4-4185-97ed-bcac7aeb09c0" />
+
 
 Mira.GG is a lightweight, open-source launcher that makes it simple to install, update, and play Among Us with community mods.  
 No manual file copying, no complicated setups — just launch and play.  
