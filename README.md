@@ -1,4 +1,5 @@
-<img width="538" height="179" alt="MiraGG_logo_smaller" src="https://github.com/user-attachments/assets/2d4ad439-a5e7-40c3-8bd2-9d6b441b3c3d" />
+# <img width="350" height="116" alt="MiraGG_logo_smaller (1)" src="https://github.com/user-attachments/assets/68d4dcb8-a4f5-456d-8aa0-ca2086a0fa17" />
+
 
 This repository will soon contain the full source code of **Mira.GG**, an open-source **Among Us Mod Launcher**.  
 
